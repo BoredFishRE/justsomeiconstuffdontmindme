@@ -11,7 +11,7 @@ Auto Level (must buy): https://creality3dofficial.com/products/creality-cr-touch
 
 PEI Bed (nice to have): https://creality3dofficial.com/products/upgraded-flexible-pei-heated-bed-for-ender-3pro-ender-5pro-ender-3-v2
 
-Direct Drive Extruder (This is 2 products combined, so that is why it's so expensive): https://store.micro-swiss.com/collections/extruders/products/micro-swiss-direct-drive-extruder?variant=31316019773507
+New Hotend (for better prints): https://store.micro-swiss.com/collections/all-metal-hotend-kits/products/all-metal-hotend-kit-for-cr-10
 
 Nozzles (preventive maintenance, select 0.4 nozzle size): https://www.bondtech.se/product/bondtech-cht-mk8-coated-brass-nozzle/
 
