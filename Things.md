@@ -1,9 +1,6 @@
 # Christmas/Bday
-Ender 3 V2: https://creality3dofficial.com/products/ender-3-v2-3d-printer
 
-Ender 3 Pro (if V2 is out of stock or if the V2 is too expensive): https://creality3dofficial.com/products/creality-ender-3-pro-3d-printer
-
-Ender 3 Base (if everything else is out of stock): https://creality3dofficial.com/products/official-creality-ender-3-3d-printer
+Aquila X2 (better than the other printers, upgrades will work): https://www.flashforgeshop.com/product/voxelab-aquila-x2-fdm-3d-printer?cID=31
 
 ### Upgrades
 
