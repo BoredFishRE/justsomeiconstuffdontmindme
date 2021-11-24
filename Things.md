@@ -13,6 +13,8 @@ PEI Bed (nice to have): https://creality3dofficial.com/products/upgraded-flexibl
 
 Nozzles (preventive maintenance, select 0.4 nozzle size): https://www.bondtech.se/product/bondtech-cht-mk8-coated-brass-nozzle/
 
+Raspberry Pi (prevents fire hazard, less mess. Buy these together): https://www.canakit.com/raspberry-pi-zero-2-w.html https://www.canakit.com/raspberry-pi-camera-v2-8mp.html https://www.canakit.com/raspberry-pi-zero-camera-cable.html
+
 ### Other stuff I want for Christmas/bday
 
 Screw/Nut set (good to have):https://www.amazon.com/dp/B07FCDL2SY
