@@ -11,14 +11,7 @@ Auto Level (must buy): https://creality3dofficial.com/products/creality-cr-touch
 
 PEI Bed (nice to have): https://creality3dofficial.com/products/upgraded-flexible-pei-heated-bed-for-ender-3pro-ender-5pro-ender-3-v2
 
-Raspberry Pi (for octoprint, and less mess on my desk, have to buy all together): https://www.canakit.com/raspberry-pi-zero-2-w.html https://www.canakit.com/raspberry-pi-camera-v2-8mp.html https://www.canakit.com/raspberry-pi-zero-camera-cable.html
-
-New Hotend (for better prints): https://store.micro-swiss.com/collections/all-metal-hotend-kits/products/all-metal-hotend-kit-for-cr-10
-
 Nozzles (preventive maintenance, select 0.4 nozzle size): https://www.bondtech.se/product/bondtech-cht-mk8-coated-brass-nozzle/
-
-Z Axis Extension (very optional): https://creality3dofficial.com/products/y-axis-profiles-kit-for-ender-3-series
-
 
 ### Other stuff I want for Christmas/bday
 
