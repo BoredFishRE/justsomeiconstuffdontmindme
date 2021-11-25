@@ -7,13 +7,17 @@ Ender 3 Base (if everything else is out of stock): https://creality3dofficial.co
 
 ### Upgrades (in order from most wanted to least wanted)
 
-Auto Level (must buy): https://creality3dofficial.com/products/creality-cr-touch
+Auto Level (must buy): https://creality3dofficial.com/products/creality-cr-touch $45
 
-Raspberry Pi (prevents fire hazard, less mess. Buy these together): https://www.canakit.com/raspberry-pi-zero-2-w.html https://www.canakit.com/raspberry-pi-camera-v2-8mp.html https://www.canakit.com/raspberry-pi-zero-camera-cable.html
+Raspberry Pi (prevents fire hazard, less mess. Buy these together): 
 
-PEI Bed (nice to have, ): https://creality3dofficial.com/products/upgraded-flexible-pei-heated-bed-for-ender-3pro-ender-5pro-ender-3-v2
+Raspi: https://www.canakit.com/raspberry-pi-zero-2-w.html $33
+Camera: https://www.canakit.com/raspberry-pi-camera-v2-8mp.html $25
+Camera Cable: https://www.canakit.com/raspberry-pi-zero-camera-cable.html $6
 
-Nozzles (preventive maintenance, select 0.4 nozzle size): https://www.bondtech.se/product/bondtech-cht-mk8-coated-brass-nozzle/
+PEI Bed (nice to have): https://creality3dofficial.com/products/upgraded-flexible-pei-heated-bed-for-ender-3pro-ender-5pro-ender-3-v2 $25
+
+Nozzles (preventive maintenance, select 0.4 nozzle size): https://www.bondtech.se/product/bondtech-cht-mk8-coated-brass-nozzle/ $20
 
 
 ### Other stuff I want for Christmas/bday
