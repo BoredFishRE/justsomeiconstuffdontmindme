@@ -22,9 +22,7 @@ Nozzles (preventive maintenance, select 0.4 nozzle size): https://www.bondtech.s
 
 ### Other stuff I want for Christmas/bday
 
-Screw/Nut set (good to have):https://www.amazon.com/dp/B07FCDL2SY
+Screw/Nut set (good to have):https://www.amazon.com/dp/B07FCDL2SY $30
 
-Magsafe charger: https://www.apple.com/shop/product/MHXH3AM/A/magsafe-charger
-
-Watch Band: https://www.amazfit.com/us/sports-series-energy-edition.html
+Magsafe charger: https://www.apple.com/shop/product/MHXH3AM/A/magsafe-charger $40
 
