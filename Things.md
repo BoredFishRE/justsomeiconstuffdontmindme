@@ -11,8 +11,10 @@ Auto Level (must buy): https://creality3dofficial.com/products/creality-cr-touch
 
 Raspberry Pi (prevents fire hazard, less mess. Buy these together): 
 
-Raspi: https://www.canakit.com/raspberry-pi-zero-2-w.html $33
+Raspi: https://www.canakit.com/raspberry-pi-zero-2-w.html $33|
+
 Camera: https://www.canakit.com/raspberry-pi-camera-v2-8mp.html $25
+
 Camera Cable: https://www.canakit.com/raspberry-pi-zero-camera-cable.html $6
 
 PEI Bed (nice to have): https://creality3dofficial.com/products/upgraded-flexible-pei-heated-bed-for-ender-3pro-ender-5pro-ender-3-v2 $25
