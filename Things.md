@@ -1,4 +1,4 @@
-# Christmas/Bday
+# Christmas List
 
 Magsafe charger: https://www.apple.com/shop/product/MHXH3AM/A/magsafe-charger $40
 
