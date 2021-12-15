@@ -2,6 +2,10 @@
 
 Magsafe charger: https://www.apple.com/shop/product/MHXH3AM/A/magsafe-charger $40
 
+LED Strip: https://gulfcoast-robotics.com/collections/products/products/premium-white-led-bar-light-upgrade-for-3d-printers-universal
+
+Fans: https://www.amazon.com/WINSINN-Cooling-Creality-Turbine-Brushless/dp/B07R97ZSF6
+
 Raspberry Pi (Buy these together): 
 
 Raspi: https://www.canakit.com/raspberry-pi-zero-2-w.html $33|
